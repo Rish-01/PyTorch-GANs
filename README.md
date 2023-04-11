@@ -39,4 +39,4 @@ GAN was trained on data from MNIST dataset. Here is how the digits from the data
 
 I've used the following repositories as reference for implementing my version:
 * [pytorch-GANs](https://github.com/gordicaleksa/pytorch-GANs) (PyTorch)
-* [PyTorch-GAN](https://github.com/ahmadchalhoub/research_implementations) (PyTorch)
+* [research_implementations](https://github.com/ahmadchalhoub/research_implementations) (PyTorch)
