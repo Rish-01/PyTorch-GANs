@@ -26,7 +26,7 @@ like the usage of LeakyReLU and 1D batch normalization.
 
 ### Examples
     
-GAN was trained on data from MNIST dataset. Here is how the digits from the dataset look like:
+GAN was trained on data from MNIST dataset. Here is how the generated digits look like:
 
 <div style="display: flex;">
     <img src="data/generated_imagery/generated_image0.jpg" style="width: 30%; display: inline-block;">
